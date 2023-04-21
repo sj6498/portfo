@@ -50,7 +50,7 @@ class AboutMobile extends StatelessWidget {
                 side: BorderSide(color: kPrimaryColor)),
             onPressed: () {
               launchURL(
-                  "https://outlookuga-my.sharepoint.com/:b:/g/personal/sj70595_uga_edu/ESnz6P9RZKpLkWlAJlP4By8BoSoY1Ho1ooHw5IpsMAMMqg?e=u1M55k");
+                  "https://outlookuga-my.sharepoint.com/:b:/g/personal/sj70595_uga_edu/EU4U801ldCtPtjjWUBVB1gQB-HDcs9nsTU1aRORKQELvIw?e=w3YgaC");
             },
             child: Text(
               "Resume",
